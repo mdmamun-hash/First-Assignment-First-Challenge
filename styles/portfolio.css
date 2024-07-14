@@ -78,6 +78,7 @@ margin: 0 500px;
 
  .second-part{
   width: 1140px;
+
   
  }
 .why-web{
@@ -124,4 +125,19 @@ color: #0D1321;
 .bton{
   margin-left: 50px;
 }
-.inspiration
+.inspiration{
+
+margin: 88px 152px 0 148px;
+
+height: 777px;
+text-align: center;
+
+}
+.inspiration-text{
+  margin-bottom: 48px;
+}
+.video{
+  border: 20px solid #0d132111 ;
+  border-radius: 20px;
+  
+}
