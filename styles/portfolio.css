@@ -141,3 +141,40 @@ text-align: center;
   border-radius: 20px;
   
 }
+.current-target{
+  margin: 149px 150px 0;
+  height: 550px;
+}
+.text{
+  text-align: center;
+}
+.targets{
+  display: flex;
+}
+.html{
+  border: 0px solid;
+  border-radius: 10px;
+  background-color: #ff4b1e17;
+  margin-right: 10px;
+  padding-left: 10px;
+  
+}
+.css{
+  border: 0px solid;
+  border-radius: 10px;
+  background-color:#004de81a;
+  margin-right: 20px;
+padding-left: 10px;
+}
+.java-script{
+  border: 0px solid;
+  border-radius: 10px;
+  background-color: #ffdd0023;
+ padding-left: 10px;
+}
+.target-button{
+  color: black;
+  font-weight: 600;
+  padding-left: 10px;
+  padding-bottom: 15px;
+}
