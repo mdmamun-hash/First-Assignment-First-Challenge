@@ -1,5 +1,8 @@
 /* navigation style  */
-
+body{
+  max-width: 1440px ;
+  
+}
 nav{
   display: flex;
   justify-content: space-between;
@@ -39,27 +42,28 @@ nav ul li a{
 
 /* 1st-section-style */
 
-.first-section{
+.first-part{
   background-image: url(../media/image/Hero-bg.png);
-  height: 752px;
-  width: 1440px;
-margin: 0px 200px;
+
+ margin: 131px 0 0;
+ width: 1440px;
+ height: 752px;
+
+
 
 }
  .first-div{
- padding: 0 195px 71px 247px;
- height: 581px;
- width: 998px;
+padding: 26px 221px 44px;
  font-size: 30px;
  }
  .first-img{
-padding:0 300px 32px;
+padding:0px 450px 32px;
 
  }
- div button a{
+.contact-font{
   text-decoration: none;
   color: white;
- }
+}
  .contact{
   font-size: medium;
   height:57px ;
@@ -68,6 +72,56 @@ padding:0 300px 32px;
   padding:17px 24px ;
   background-color: black;
   color: white;
-margin: 0 300px;
+margin: 0 500px;
  
  }
+
+ .second-part{
+  width: 1140px;
+  
+ }
+.why-web{
+  height: 1395px;
+  margin: 74px 152px 0 148px;
+  border: 0px solid;
+  border-radius: 5px;
+  background-color: #0d13210a;
+  padding: 80px 97px;
+}
+.first-commit{
+  display: flex;
+  justify-content: space-between;
+  border: 0px solid;
+  border-radius: 5px;
+  background-color: white;
+ margin: 150px 0;
+  
+}
+.second-commit{
+  display: flex;
+  justify-content: space-between;
+  border: 0px solid;
+  border-radius: 5px;
+  background-color: white;
+  margin-bottom: 150px;
+ 
+}
+.third-commit{
+  display: flex;
+  justify-content: space-between;
+  border: 0px solid;
+  border-radius: 5px;
+  background-color: white;
+  margin-bottom: 150px;
+
+}
+.btn{
+  
+text-decoration: none;
+color: #0D1321;
+ 
+}
+.bton{
+  margin-left: 50px;
+}
+.inspiration
