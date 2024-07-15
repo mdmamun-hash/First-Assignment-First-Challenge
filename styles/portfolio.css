@@ -144,12 +144,19 @@ text-align: center;
 .current-target{
   margin: 149px 150px 0;
   height: 550px;
+  border: 0 solid #;
 }
 .text{
   text-align: center;
+  margin-bottom: 50px;
+ 
+ 
 }
 .targets{
   display: flex;
+  
+
+  
 }
 .html{
   border: 0px solid;
@@ -177,4 +184,39 @@ padding-left: 10px;
   font-weight: 600;
   padding-left: 10px;
   padding-bottom: 15px;
+}
+.need-support{
+  height: 314px;
+  margin:44px 150px 0 ;
+  background-image: url(../media/image/handshake.jpg);
+  background-repeat: no-repeat;
+  border: 0px solid;
+  border-radius: 10px;
+  padding: 64px 48px;
+  font-size: 20px;
+  
+}
+.need-support-text{
+  text-align: center;
+  color: white;
+  
+}
+.need-support-input{
+ margin-left: 150px;
+ 
+  height: 50px;
+  display: flex;
+  
+
+}
+.input{
+  border: 0px solid;
+  border-radius: 10px;
+  margin-right: 10px;
+  width: 350px;
+}
+.submit{
+  border: 0px solid;
+  border-radius: 10px;
+  width: 100px;
 }
