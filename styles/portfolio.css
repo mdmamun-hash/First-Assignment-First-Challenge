@@ -1,7 +1,6 @@
 /* navigation style  */
 body{
-  max-width: 1440px ;
-  
+  max-width: 1440px;
 }
 nav{
   display: flex;
@@ -78,12 +77,13 @@ margin: 0 500px;
 
  .second-part{
   width: 1140px;
+ 
 
   
  }
 .why-web{
   height: 1395px;
-  margin: 74px 152px 0 148px;
+margin: 74px 152px 0 148px;
   border: 0px solid;
   border-radius: 5px;
   background-color: #0d13210a;
@@ -219,4 +219,14 @@ padding-left: 10px;
   border: 0px solid;
   border-radius: 10px;
   width: 100px;
+}
+footer{
+  display: flex;
+  justify-content: space-between;
+  width: 1440px;
+  height: 100px;
+  border: 0 solid;
+  /* margin:79px 0 0 0 ; */
+  padding: 32px 150px;
+  background-color: #0d132111;
 }
